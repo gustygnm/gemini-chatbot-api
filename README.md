@@ -2,6 +2,8 @@
 
 Sebuah aplikasi web chatbot sederhana dan elegan yang didukung oleh Google Gemini AI. Proyek ini mendemonstrasikan cara mengintegrasikan model bahasa yang kuat ke dalam aplikasi obrolan real-time menggunakan Node.js, Express, dan JavaScript vanilla.
 
+![Tampilan Chatbot](image/Screenshot%202025-06-21%20at%2012.09.52.png)
+
 ## 🌟 Fitur
 
 - **Obrolan Real-time**: Dapatkan respons instan dari Gemini AI.
